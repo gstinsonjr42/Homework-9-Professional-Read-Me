@@ -50,4 +50,6 @@ undefined
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at gstinsonjr17@gmail.com. You can find more of my work at [gstinsonjr42](https://github.com/undefined/).
+or you can watch this video explanation: https://drive.google.com/file/d/1p-KgaSqk7e15TZbCz4TZopWywilwoVPI/view
+
 
