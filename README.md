@@ -3,7 +3,7 @@
 
 ## Description
 
-Provide a detailed and correctly structred read me file 
+A simple read me generator
 
 ## Table of Contents 
 
@@ -24,12 +24,12 @@ Provide a detailed and correctly structred read me file
 To install necessary dependencies, run the following command:
 
 ```
-installing node and inquirer 
+type npm install and npm inquirer into temrminal to get inquirer and then to run the application you can type node (file to run)
 ```
 
 ## Usage
 
-run node for the js file and answer prompts that will correctly make a read me for your project
+type node (file to run) in the terminal and answer a series of prompts based on the project you are making the read me for
 
 ## License
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
   
 ## Contributing
 
-none 
+
 
 ## Tests
 
